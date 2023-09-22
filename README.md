@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Tick Tack Toe Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project Craeted By Akrem Abdulakdir.
 
 ## Available Scripts
 
